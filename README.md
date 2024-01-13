@@ -1,6 +1,6 @@
 
 
-🔭 I’m currently working on my Master's Degree in Data Science at Bellevue University with anticipated graduation in November 2021
+🔭 I’m currently working as a Data Science Consultant at AdventHealth
 
 
 
